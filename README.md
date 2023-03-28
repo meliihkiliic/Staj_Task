@@ -12,8 +12,9 @@ yardımcı olabilir misin?
 
 
 Uygulama çalışırken yaptığı işlemleri takip edebileceğiniz günlük izleri(log) oluşturur.
+
 JUnit testlerinin çıktılarını içeren test_results.txt mevcuttur.
+
 Junit testleri için girdiler;
-1-) 5,5,5,5 
-2-) 4,6,7,9
-3-) 3,5,8,13
+
+"5,5,5,5", "4,6,7,9", "3,5,8,13"
