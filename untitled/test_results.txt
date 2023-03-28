@@ -1,0 +1,60 @@
+kullanılan veri seti: [3, 5, 8, 13]
+2023-03-28 15:50:02 - Test başarılı. 'enHizli' beklenen değeri aldı: 3
+
+kullanılan veri seti: [3, 5, 8, 13]
+2023-03-28 15:50:02 - Test başarılı. 'enYavas' beklenen değeri aldı: 13
+
+kullanılan veri seti: [3, 5, 8, 13]
+2023-03-28 15:50:02 - Test başarılı. 'enKotuDurum' beklenen değeri aldı: 65
+
+kullanılan veri seti: [3, 5, 8, 13]
+2023-03-28 15:50:02 - Test başarılı. 'enIyiDurum' beklenen değeri aldı: 32
+
+kullanılan veri seti: [5, 5, 5, 5]
+2023-03-28 15:50:46 - Test başarılı. 'enHizli' beklenen değeri aldı: 5
+
+kullanılan veri seti: [5, 5, 5, 5]
+2023-03-28 15:50:46 - Test başarılı. 'enYavas' beklenen değeri aldı: 5
+
+kullanılan veri seti: [5, 5, 5, 5]
+2023-03-28 15:50:46 - Test başarılı. 'enKotuDurum' beklenen değeri aldı: 25
+
+kullanılan veri seti: [5, 5, 5, 5]
+2023-03-28 15:50:46 - Test başarılı. 'enIyiDurum' beklenen değeri aldı: 25
+
+kullanılan veri seti: [4, 6, 7, 9]
+2023-03-28 15:51:51 - Test başarılı. 'enHizli' beklenen değeri aldı: 4
+
+kullanılan veri seti: [4, 6, 7, 9]
+2023-03-28 15:51:51 - Test başarılı. 'enYavas' beklenen değeri aldı: 9
+
+kullanılan veri seti: [4, 6, 7, 9]
+2023-03-28 15:51:51 - Test başarılı. 'enKotuDurum' beklenen değeri aldı: 45
+
+kullanılan veri seti: [4, 6, 7, 9]
+2023-03-28 15:51:51 - Test başarılı. 'enIyiDurum' beklenen değeri aldı: 30
+
+kullanılan veri seti: [10, 12, 15, 14]
+2023-03-28 15:52:39 - Test başarılı. 'enHizli' beklenen değeri aldı: 10
+
+kullanılan veri seti: [10, 12, 15, 14]
+2023-03-28 15:52:39 - Test başarılı. 'enYavas' beklenen değeri aldı: 15
+
+kullanılan veri seti: [10, 12, 15, 14]
+2023-03-28 15:52:39 - Test başarılı. 'enKotuDurum' beklenen değeri aldı: 75
+
+kullanılan veri seti: [10, 12, 15, 14]
+2023-03-28 15:52:39 - Test başarılı. 'enIyiDurum' beklenen değeri aldı: 61
+
+kullanılan veri seti: [10, 12, 15, 14]
+2023-03-28 16:43:38 - Test başarılı. 'enHizli' beklenen değeri aldı: 10
+
+kullanılan veri seti: [10, 12, 15, 14]
+2023-03-28 16:43:38 - Test başarılı. 'enYavas' beklenen değeri aldı: 15
+
+kullanılan veri seti: [10, 12, 15, 14]
+2023-03-28 16:43:38 - Test başarılı. 'enKotuDurum' beklenen değeri aldı: 75
+
+kullanılan veri seti: [10, 12, 15, 14]
+2023-03-28 16:43:38 - Test başarılı. 'enIyiDurum' beklenen değeri aldı: 61
+
